@@ -14,7 +14,6 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
     <!-- Network traffic -->
     <dimen name="network_traffic_width">25sp</dimen>
 </resources>
